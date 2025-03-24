@@ -1,0 +1,12 @@
+
+## Requirements
+
+- Python 3.x
+- OpenCV
+- Keras
+- TensorFlow
+- NumPy
+- termcolor
+
+You can install the required packages using:
+
